@@ -16,7 +16,7 @@ const NavBar = () => {
     <nav className="bg-blue-600 p-4 shadow-md">
       <div className="max-w-screen-lg mx-auto flex justify-between items-center">
         {/* Logo */}
-        <img src="lex-logo.png" alt="Lex NoteApp" className="h-16 w-auto" />
+        <img src="/lex-logo.png" alt="Lex NoteApp" className="h-16 w-auto" />
 
         {/* Hamburger Icon */}
         <button
